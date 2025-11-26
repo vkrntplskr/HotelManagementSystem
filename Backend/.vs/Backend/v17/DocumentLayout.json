@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\HotelDbContext.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\HotelDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:13:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:03:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:02:36.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:01:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:00:58.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Room.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Room.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:00:30.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@ namespace HotelManagementSystem.Models
     public class Booking
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]//auto increment
         public int BookingId { get; set; }
 
         [Required(ErrorMessage = "CustomerId is required.")]

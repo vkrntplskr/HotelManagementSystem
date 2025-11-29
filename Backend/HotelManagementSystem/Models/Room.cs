@@ -7,6 +7,7 @@ namespace HotelManagementSystem.Models
     public class Room
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]//auto increment
         public int RoomId { get; set; }
         [Required(ErrorMessage = "Room number is required.")]
         [Range(1, 100, ErrorMessage = "Room number must be between 1 and 100.")]

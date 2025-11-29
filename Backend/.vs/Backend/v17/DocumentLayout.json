@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +39,12 @@
       "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Migrations\\20251129082754_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelManagementSystem\\Migrations\\20251129082754_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\vikrant\\desktop\\hotelmanagementsystem\\backend\\hotelmanagementsystem\\migrations\\20251129082754_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C19C0-C5DF-4A5A-810B-2478A8001899}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\migrations\\20251129082754_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20251129082754_second.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Migrations\\20251129082754_second.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Migrations\\20251129082754_second.cs",
@@ -70,25 +70,24 @@
               "RelativeToolTip": "HotelManagementSystem\\Migrations\\20251129082754_second.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T08:27:54.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T08:27:54.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Program.cs",
               "ToolTip": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Program.cs",
               "RelativeToolTip": "HotelManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T08:13:45.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "HotelManagementSystem\\appsettings.json",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "HotelManagementSystem\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-29T08:12:52.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T08:12:52.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\DashboardController.cs",
@@ -109,12 +107,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA7wCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T08:07:37.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T08:07:37.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\BookingController.cs",
@@ -122,12 +119,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Controllers\\BookingController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAowEAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T07:55:50.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T07:55:50.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HotelDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\HotelDbContext.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\HotelDbContext.cs",
@@ -135,12 +131,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Models\\HotelDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:13:09.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:13:09.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\CustomerController.cs",
@@ -148,12 +143,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:03:46.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:03:46.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\RoomController.cs",
@@ -166,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Booking.cs",
@@ -174,12 +168,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Models\\Booking.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:01:30.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:01:30.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Room.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Room.cs",
@@ -187,12 +180,11 @@
               "RelativeToolTip": "HotelManagementSystem\\Models\\Room.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA2wAkAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:00:30.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:00:30.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Vikrant\\Desktop\\HotelManagementSystem\\Backend\\HotelManagementSystem\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Customer.cs",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "HotelManagementSystem\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:00:58.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:00:58.999Z"
             }
           ]
         }
